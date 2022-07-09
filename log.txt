@@ -1,0 +1,13 @@
+			First List
+neiltyson                     	= 	29 following 	14746248 followers 	7744 tweet
+BillGates                     	= 	433 following 	59799498 followers 	3964 tweet
+JeffBezos                     	= 	89 following 	4831949 followers 	356 tweet
+jack                          	= 	4587 following 	6422493 followers 	28606 tweet
+MrBeast                       	= 	1814 following 	14667669 followers 	5593 tweet
+	Total Followers:	100467857
+			Second List
+dogecoin                      	= 	21 following 	3432155 followers 	915 tweet
+SpaceX                        	= 	99 following 	23851644 followers 	5991 tweet
+Tesla                         	= 	78 following 	16279991 followers 	7820 tweet
+BillNye                       	= 	134 following 	6089269 followers 	2520 tweet
+	Total Followers:	49653059
