@@ -1,4 +1,3 @@
-from operator import iadd
 import tweepy
 from datetime import datetime
 import time
@@ -53,7 +52,6 @@ def hesapla(kullanici):
 	x.write(f"{result}\n")
 	x.close()
 	print(result)
-
 
 first_list=["neiltyson","BillGates","JeffBezos","jack","MrBeast"]
 second_list=["dogecoin","SpaceX","Tesla","BillNye"]
